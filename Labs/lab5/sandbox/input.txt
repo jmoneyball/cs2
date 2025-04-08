@@ -1,0 +1,24 @@
+Lori's Diner
+94114
+4.5
+Fantastic dining.
+3.8
+It was OK; lots of waiting.
+2.2
+Bugs in the food but 2 stars.
+Mel's Diner
+94114
+3.3
+Loved the silverware.
+3.9
+Glorious luxury dining.
+2.9
+Couldn't find Mel.
+Luke's Diner
+94114
+5.0
+The force was strong here
+4.0
+Dug the cantina vibe
+2.5
+Couldn't find Princess Leia.
