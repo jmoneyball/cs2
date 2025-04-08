@@ -1,0 +1,64 @@
+1
+"Jordan Johnson" 19 4.0 "Computer Science" 2 1071437
+2
+"Kyle Johnson" 27 3.2 "Business" Bachelor's 2016
+1
+"Lauren Johnson" 17 3.8 "Nursing" 1 2134291
+4
+"Nick Lasnier" 32 120000 4052 1 182
+3
+"Blanca Lombera" 20 42000 1063 0 "Janitor"
+4
+"Cheyenne Canada" 25 39000 5932 0 184
+2
+"Calvin Strube" 23 2.8 "Psychology" Bachelor's 2019
+1
+"Cole Niermeyer" 18 3.1 "Psychology" 2 2084532
+3
+"Mike Johnson" 49 250000 1620 1 "IT Tech"
+1
+"Trevor White" 20 3.5 "Engineering" 2 10861482
+3
+"Heather Johnson" 47 38000 1621 1 "Nurse"
+2
+"Skyler Ortiz" 30 3.8 "Humanities" Master's 2013
+4
+"Brayden Kyler" 62 98000 2981 1 420
+3
+"Landen Dominic" 29 76000 5769 1 "Counselor"
+1
+"Kylie Jenner" 21 1.9 "Business" 4 1268721
+3
+"Betsy Aguilar" 50 60000 1431 1 "Janitor"
+2
+"Cody Stiffler" 34 3.75 "Computer Science" Master's 2010
+4
+"Jacques Webster" 28 50000 3295 1 301
+4
+"Johnny Depp" 57 100000 1240 1 52
+3
+"Mac Demarco" 31 28000 8219 0 "Teaching Assistant"
+1
+"Tom Hanks" 64 3.82 "Theater" 3 1925621
+3
+"John Wick" 40 54000 3462 1 "Security"
+2
+"Erik Roddewig" 21 2.9 "Engineering" Bachelor's 2020
+2
+"Porter Wilder" 26 3.0 "Nursing" Associate's 2018
+2
+"Maggie Fontenot" 37 4.0 "Dentistry" Doctorate 2009
+4
+"Nicole DeVera" 55 34000 3150 0 425
+1
+"Bethany Smith" 32 3.0 "Graphic Design" 3 2385126
+1
+"Rick Sanchez" 21 4.0 "Business" 2 5863125
+2
+"Paige Wilder" 24 2.75 "Political Science" Bachelor's 2020
+3
+"Miley Graber" 33 30000 1335 0 "Counselor" 
+4
+"Mark Dietrich" 30 80000 7553 1 222
+4
+"Javier Olivieras" 54 60500 6493 1 132

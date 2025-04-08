@@ -1,0 +1,17 @@
+CIRCLE radius=3.20 area=101.06 perimeter=20.11
+SQUARE side=4.60 area=21.16 perimeter=18.40
+TRIANGLE side=12.50 area=67.66 perimeter=37.50
+RECTANGLE length=12.40 width= 53.20 area=659.68 perimeter=131.20
+SPHERE invalid object
+PYRAMID invalid object
+BOX length=12.20 width=13.30 height=14.40 volume=2336.54 surface=1058.92
+SQUARE side=14.50 area=210.25 perimeter=58.00
+SQUARE side=0.00 area=0.00 perimeter=0.00
+RECTANGLE length=14.50 width= 4.65 area=67.43 perimeter=38.30
+CIRCLE radius=14.50 area=2075.08 perimeter=91.11
+CUBE side=13.00 volume=2197.00 surface=1014.00
+BOX length=1.00 width=2.00 height=3.00 volume=6.00 surface=22.00
+SPHERE invalid object
+CYLINDER radius=1.23 height=6.00 volume=28.52 surface=55.88
+CYLINDER radius=50.00 height=1.23 volume=9660.40 surface=16094.38
+TRIANGLE side=1.20 area=0.62 perimeter=3.60
